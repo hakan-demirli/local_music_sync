@@ -5,6 +5,7 @@ After the setup run ```batser.py``` or ```sync_all.bat```
 
 # HOW TO SETUP
 * Download and install youtube-dl.   
+* Download and add ffmpeg to path.   
 * Set the following path variables accordingly:    
 
 | yps-mp3.py                     | sync_all.bat                       | yps.json | batser.py |
