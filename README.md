@@ -1,3 +1,6 @@
+# This repository is no longer supported.    
+# Better alternative: [Sync-dl](https://github.com/PrinceOfPuppers/sync-dl)
+---------------
 An automation script to sync local folders with youtube playlists.
 
 # HOW TO USE
